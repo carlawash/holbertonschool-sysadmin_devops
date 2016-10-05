@@ -1,4 +1,4 @@
 #!/bin/bash
-CAT /tmp/iamafile
+file /tmp/iamafile
 
 
