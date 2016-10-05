@@ -1,3 +1,2 @@
 #!/bin/bash
-vagrant@vagrant-ubuntu-trusty-64:~$ pwd
-/home/vagrant
+pwd
