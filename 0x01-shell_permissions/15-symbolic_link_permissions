@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h betty:holberton .
+chown -hR --deferrence betty:holberton /_hello .
