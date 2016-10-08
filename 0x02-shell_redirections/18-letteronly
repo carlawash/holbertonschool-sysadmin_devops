@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $LETTER | tr a-z A-Z *
