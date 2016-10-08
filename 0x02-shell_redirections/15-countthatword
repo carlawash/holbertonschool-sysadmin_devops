@@ -1,3 +1,4 @@
 #!/bin/bash
-grep -f bin /etc/passwd
+echo |grep -f bin /etc/passwd
+
 
