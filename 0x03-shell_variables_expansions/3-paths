@@ -1,3 +1,4 @@
 #!/bin/bash
-$ ls -l
+find $PATH | wc -l
+
 
