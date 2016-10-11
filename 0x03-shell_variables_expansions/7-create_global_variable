@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 var HOLBERTON="Betty"
+=======
+export HOLBERTON="Betty"
+>>>>>>> a55fa892c23c6d59cc2de12013dbc0baf1369029
