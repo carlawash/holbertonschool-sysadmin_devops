@@ -1,2 +1,2 @@
 #!/bin/bash
-printf user/local/sbin 
+echo $PATH $(ls -A $PATH | wc -l )
